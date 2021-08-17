@@ -1,0 +1,1 @@
+SIPs should be written in markdown format. Image files should be included in a subdirectory of the assets folder for that SIP as follows: assets/sip-X (for sip X). When linking to an image in the SIP, use relative links such as ../assets/sip-X/image.png.
