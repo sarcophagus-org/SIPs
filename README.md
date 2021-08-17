@@ -12,16 +12,16 @@ SIPs will also be used for bounties and grants via the gitcoin platform. All Git
 1. Read this entire README
 2. Fork the repository by clicking "Fork" in the top right.
 3. Add your SIP to your fork of the repository. There is a template SIP here.
-4. Submit a Pull Request to Synthetix's SIPs repository.
+4. Submit a Pull Request to Sarcophagus's SIPs repository.
 
 # SIP Statuses
 
-- **Draft** - The initial state of a new SIP before the Spartan Council and core contributors have assessed it.
-- **Feasibility** - a SIP that is being assessed for feasibility with an assigned Core Contributor
-- **SC_Review_Pending** - a SIP that is awaiting a Spartan Council Review after the Author and Core Contributor are satisfied with feasibility
+- **Draft** - The initial state of a new SIP before the Builders have assessed it.
+- **Feasibility** - a SIP that is being assessed for feasibility with an assigned Builder
+- **Review_Pending** - a SIP that is awaiting a review after the Author and Builder are satisfied with feasibility.
 - **Vote_Pending** - a SIP that is awaiting a vote.
-- **Approved** - a SIP that has successfully reached a super majority Spartan Council vote in favour.
-- **Rejected** - a SIP that has failed to reach a super-majority Spartan Council vote in favour.
+- **Approved** - a SIP that has successfully Approved by the Builders.
+- **Rejected** - a SIP that has been rejected by the Builders.
 - **Implemented** - a SIP that has been released to main-net.
 
 
