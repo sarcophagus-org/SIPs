@@ -11,7 +11,7 @@ SIPs will also be used for bounties and grants via the gitcoin platform. All Git
 
 1. Read this entire README
 2. Fork the repository by clicking "Fork" in the top right.
-3. Add your SIP to your fork of the repository. There is a template SIP here: https://github.com/sarcophagus-org/SIPs/blob/main/sip_x.md
+3. Add your SIP to your fork of the repository. There is a template SIP here: https://github.com/sarcophagus-org/SIPs/blob/main/sips/sip_x.md
 4. Submit a Pull Request to Sarcophagus's SIPs repository here: https://github.com/sarcophagus-org/SIPs
 
 # SIP Statuses
