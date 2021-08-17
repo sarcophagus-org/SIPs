@@ -3,7 +3,7 @@ Sarcophagus Improvement Proposals
 
 Language and structure inspired (borrowed) from Synthietix SIP system
 
-SIPs are used for improvements to the sarcophagus project. They can be used for anything from simple front end improvements to core protocol changes. All many changes will require a DAO vote to complete, but the SIP process here on Github is where the discussion will take place as well as where all of the code will be published. 
+SIPs are used for improvements to the sarcophagus project. They can be used for anything from simple front end improvements to core protocol changes. Many changes will require a DAO vote to complete, but the SIP process here on Github is where the discussion will take place as well as where all of the code will be published. 
 
 SIPs will also be used for bounties and grants via the gitcoin platform. All Gitcoin bounties will first start as issues.
 
